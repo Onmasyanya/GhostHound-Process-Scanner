@@ -87,4 +87,3 @@ def dump_process_strings(target_pid):
 
     kernel32.CloseHandle(process_handle)
     print("[+] Аудит памяти завершён.\n")
-
